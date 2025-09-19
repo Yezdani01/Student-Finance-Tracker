@@ -32,8 +32,6 @@ This project provides an **intuitive finance tracker** that empowers students to
 
 ---
 
-## 📷 Screenshots
-_Add screenshots or GIFs here to showcase the dashboard UI._
 
 ---
 
